@@ -28,6 +28,7 @@ rpcpassword=coins
 rpcconnect=127.0.0.1
 daemon=1
 server=1
+#port=41338
 maxconnections=200
 maxsendbuffer=10000
 maxreceivebuffer=500000
