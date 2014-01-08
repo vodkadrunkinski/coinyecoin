@@ -22,7 +22,7 @@ Then install all the stuff as per litecoin building tutorial, but using brew, no
 Create ~/Library/Application\ Support/CoinyeCoin/coineycoin.conf
 
 with:
-
+```
 rpcuser=coinye
 rpcpassword=coins
 rpcconnect=127.0.0.1
@@ -43,4 +43,4 @@ addnode=24.20.187.178
 addnode=37.59.31.34
 addnode=37.59.54.28
 addnode=62.212.72.31
-
+```
