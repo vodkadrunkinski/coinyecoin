@@ -10,7 +10,7 @@ Contact:
 IRC: irc.freenode.net Channel: #coinyecoin
 
 
-Grab OSX client here (OSX 10.8+):  https://www.mediafire.com/?dclgrk4u87l6rpd
+Grab OSX client here (OSX 10.8+) (updated 1/12/14): http://www.mediafire.com/download/9cpfu00mcaq315m/coinyecoin-qt.dmg
 
 
 To build an OSX client, you'll need brew http://brew.sh/
